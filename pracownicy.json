@@ -1,0 +1,138 @@
+[
+  {
+    "pensja": 5411.2,
+    "pieniądze": 100.0,
+    "typ": "Pracownik",
+    "imię": "Jan",
+    "nazwisko": "Kowalski",
+    "dataUrodzenia": {
+      "year": 1980,
+      "month": 11,
+      "day": 2
+    },
+    "adres": {
+      "miasto": "Poznań",
+      "ulica": "ul. Szklista 12",
+      "kodPocztowy": "60-111"
+    }
+  },
+  {
+    "pensja": 5678.23,
+    "pieniądze": 100.0,
+    "typ": "Pracownik",
+    "imię": "Anna",
+    "nazwisko": "Zamojska",
+    "dataUrodzenia": {
+      "year": 1989,
+      "month": 3,
+      "day": 2
+    },
+    "adres": {
+      "miasto": "Leszno",
+      "ulica": "",
+      "kodPocztowy": "55-555"
+    }
+  },
+  {
+    "pensja": 7400.2,
+    "pieniądze": 100.0,
+    "typ": "Pracownik",
+    "imię": "Janina",
+    "nazwisko": "Kot",
+    "dataUrodzenia": {
+      "year": 1986,
+      "month": 4,
+      "day": 2
+    },
+    "adres": {
+      "miasto": "Leszno",
+      "ulica": "",
+      "kodPocztowy": "55-555"
+    }
+  },
+  {
+    "pensja": 3600.5,
+    "pieniądze": 100.0,
+    "typ": "Pracownik",
+    "imię": "Antoni",
+    "nazwisko": "Robak",
+    "dataUrodzenia": {
+      "year": 1997,
+      "month": 12,
+      "day": 2
+    },
+    "adres": {
+      "miasto": "Konin",
+      "ulica": "",
+      "kodPocztowy": "55-555"
+    }
+  },
+  {
+    "pensja": 2670.0,
+    "pieniądze": 100.0,
+    "typ": "Pracownik",
+    "imię": "Weronika",
+    "nazwisko": "Kocińska",
+    "dataUrodzenia": {
+      "year": 2001,
+      "month": 7,
+      "day": 14
+    },
+    "adres": {
+      "miasto": "Leszno",
+      "ulica": "",
+      "kodPocztowy": "55-555"
+    }
+  },
+  {
+    "pensja": 8200.2,
+    "pieniądze": 100.0,
+    "typ": "Pracownik",
+    "imię": "Zenon",
+    "nazwisko": "Abacki",
+    "dataUrodzenia": {
+      "year": 1978,
+      "month": 2,
+      "day": 23
+    },
+    "adres": {
+      "miasto": "Leszno",
+      "ulica": "",
+      "kodPocztowy": "55-555"
+    }
+  },
+  {
+    "pensja": 3740.0,
+    "pieniądze": 100.0,
+    "typ": "Pracownik",
+    "imię": "Piotr",
+    "nazwisko": "Adams",
+    "dataUrodzenia": {
+      "year": 2003,
+      "month": 9,
+      "day": 24
+    },
+    "adres": {
+      "miasto": "Poznań",
+      "ulica": "Szeroka 2",
+      "kodPocztowy": "60-555"
+    }
+  },
+  {
+    "pensja": 4200.2,
+    "pieniądze": 100.0,
+    "typ": "Pracownik",
+    "imię": "Lucjan",
+    "nazwisko": "Kacik",
+    "dataUrodzenia": {
+      "year": 1998,
+      "month": 12,
+      "day": 13
+    },
+    "adres": {
+      "miasto": "Wrocław",
+      "ulica": "Wielka 12",
+      "kodPocztowy": "44-555"
+    }
+  }
+]
